@@ -17,7 +17,7 @@ repositories:
     version: master
   fast_neon:
     type: git
-    url: https://github.com/uzh-rpg/fast_neon.git
+    url: https://github.com/DaDa0o0/fast_neon.git
     version: master
   gflags_catkin:
     type: git
@@ -45,7 +45,7 @@ repositories:
     version: master
   dbow2_catkin:
     type: git
-    url: https://github.com/uzh-rpg/dbow2_catkin.git
+    url: https://github.com/DaDa0o0/dbow2_catkin.git
     version: master
   rpg_trajectory_evaluation:
     type: git
